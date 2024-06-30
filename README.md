@@ -42,8 +42,8 @@ OSINTomains is an Open Source Intelligence (OSINT) tool designed to gather a var
 
 ## Screenshots
 
-![image](https://github.com/jatink2004/OSINTomains/blob/master/Screenshots/SS1.png?raw=true)
-![image](https://github.com/jatink2004/OSINTomains/blob/master/Screenshots/SS2.png?raw=true)
+![image](https://github.com/joykhaneja/Domain-Analysis-Tool-OSINTomains/blob/main/Screenshots/SS1.png?raw=true)
+![image](https://github.com/joykhaneja/Domain-Analysis-Tool-OSINTomains/blob/main/Screenshots/SS2.png?raw=true)
 
 ## Installation
 
