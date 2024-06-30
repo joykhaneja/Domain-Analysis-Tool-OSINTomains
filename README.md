@@ -9,7 +9,6 @@
    \______/  \______/ \______|\__|  \__|   \__| \______/ \__| \__| \__| \_______|\__|\__|  \__|\_______/ 
 
 ```
-**Developers:** Jatin, Joy, Arpit
 
 ## Table of Contents
 
@@ -50,8 +49,8 @@ OSINTomains is an Open Source Intelligence (OSINT) tool designed to gather a var
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/jatink2004/OSINTomains.git
-    cd OSINTomains
+    https://github.com/joykhaneja/Domain-Analysis-Tool-OSINTomains.git
+    cd Domain-Analysis-Tool-OSINTomains
     ```
 
 2. **API Keys Setup**
